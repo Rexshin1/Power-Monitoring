@@ -1,0 +1,6 @@
+2026/01/26-13:03:42.917 1264 Reusing MANIFEST D:\now-ui-dashboard-master\power-monitoring\wa-gateway\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/26-13:03:42.941 1264 Recovering log #4
+2026/01/26-13:03:42.947 1264 Reusing old log D:\now-ui-dashboard-master\power-monitoring\wa-gateway\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2026/01/26-16:13:58.174 1264 Level-0 table #8: started
+2026/01/26-16:13:58.180 1264 Level-0 table #8: 16086 bytes OK
+2026/01/26-16:13:58.184 1264 Delete type=0 #4
